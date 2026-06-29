@@ -1,4 +1,4 @@
-AR ECO PARK
+AR ECO PARK - https://drive.google.com/file/d/1Li1Xbw90xwmelIxSepZcq46rVdqTndQW/view - app link
 AIM
 
          This project aims to create a marker-based augmented reality (AR) app that enables users to scan specific markers located within an eco-park or in educational materials. Scanning these markers with their device’s camera triggers detailed, interactive 3D models and information about various plant species, animals, and eco-friendly installations. This app is designed to enhance environmental education by offering an immersive, hands-on experience that is both accessible and engaging.
